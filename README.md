@@ -22,6 +22,10 @@
 
 官方步骤：[Apple](https://support.apple.com/zh-cn/guide/iphone/iph42ab2f3a7/ios)、[Chrome](https://support.google.com/chrome/answer/15085120?co=GENIE.Platform%3DAndroid&hl=zh-CN)。菜单名称可能随版本不同。
 
+## 更新网页
+
+从桌面图标进入后，点“更多 → 刷新到最新版”，联网重新加载网页，无需重新添加图标。按钮保留当前设备已保存的学习进度，不清理网站数据；未提交的选择需要重新选择。离线时会提示联网重试。
+
 ## 保存学习进度
 
 学习记录自动保存在当前设备的浏览器或网页 App 中，不会跨设备自动同步。建议固定从同一桌面图标进入；不同入口可能拥有独立记录。
